@@ -1,0 +1,6 @@
+framework module Pods_FinalChatbotIOSFramework {
+  umbrella header "Pods-FinalChatbotIOSFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
